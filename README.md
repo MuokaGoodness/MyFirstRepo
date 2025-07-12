@@ -1,2 +1,1 @@
-# My-First-Project
-Learning all about Git, Github
+This is my first repository created as part of a GitHub learning task
